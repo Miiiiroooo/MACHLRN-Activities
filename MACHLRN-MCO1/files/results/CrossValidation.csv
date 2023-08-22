@@ -1,0 +1,1750 @@
+repetitions:, 1, fold:, 1, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 10, ,accuracy: ,0.766667, sensitivity: ,0.444444, specificity: ,0.847222,
+Actual Non-RT, 11, 61, ,precision: ,0.421053, recall: ,0.444444, f-measure: ,0.432432,
+
+repetitions:, 1, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 2, ,accuracy: ,0.455556, sensitivity: ,0.888889, specificity: ,0.347222,
+Actual Non-RT, 47, 25, ,precision: ,0.253968, recall: ,0.888889, f-measure: ,0.395062,
+
+repetitions:, 1, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 2, ,accuracy: ,0.433333, sensitivity: ,0.888889, specificity: ,0.319444,
+Actual Non-RT, 49, 23, ,precision: ,0.246154, recall: ,0.888889, f-measure: ,0.385542,
+
+repetitions:, 1, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 5, ,accuracy: ,0.455556, sensitivity: ,0.722222, specificity: ,0.388889,
+Actual Non-RT, 44, 28, ,precision: ,0.228070, recall: ,0.722222, f-measure: ,0.346667,
+
+repetitions:, 1, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 8, ,accuracy: ,0.366667, sensitivity: ,0.555556, specificity: ,0.319444,
+Actual Non-RT, 49, 23, ,precision: ,0.169492, recall: ,0.555556, f-measure: ,0.259740,
+
+repetitions:, 1, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.444444, sensitivity: ,0.833333, specificity: ,0.347222,
+Actual Non-RT, 47, 25, ,precision: ,0.241935, recall: ,0.833333, f-measure: ,0.375000,
+
+repetitions:, 1, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 5, ,accuracy: ,0.411111, sensitivity: ,0.722222, specificity: ,0.333333,
+Actual Non-RT, 48, 24, ,precision: ,0.213115, recall: ,0.722222, f-measure: ,0.329114,
+
+repetitions:, 1, fold:, 2, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 10, ,accuracy: ,0.688889, sensitivity: ,0.411765, specificity: ,0.753425,
+Actual Non-RT, 18, 55, ,precision: ,0.280000, recall: ,0.411765, f-measure: ,0.333333,
+
+repetitions:, 1, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 5, ,accuracy: ,0.366667, sensitivity: ,0.705882, specificity: ,0.287671,
+Actual Non-RT, 52, 21, ,precision: ,0.187500, recall: ,0.705882, f-measure: ,0.296296,
+
+repetitions:, 1, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 4, ,accuracy: ,0.400000, sensitivity: ,0.764706, specificity: ,0.315068,
+Actual Non-RT, 50, 23, ,precision: ,0.206349, recall: ,0.764706, f-measure: ,0.325000,
+
+repetitions:, 1, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 1, ,accuracy: ,0.400000, sensitivity: ,0.941176, specificity: ,0.273973,
+Actual Non-RT, 53, 20, ,precision: ,0.231884, recall: ,0.941176, f-measure: ,0.372093,
+
+repetitions:, 1, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.466667, sensitivity: ,0.823529, specificity: ,0.383562,
+Actual Non-RT, 45, 28, ,precision: ,0.237288, recall: ,0.823529, f-measure: ,0.368421,
+
+repetitions:, 1, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 0, ,accuracy: ,0.466667, sensitivity: ,1.000000, specificity: ,0.342466,
+Actual Non-RT, 48, 25, ,precision: ,0.261538, recall: ,1.000000, f-measure: ,0.414634,
+
+repetitions:, 1, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.377778, sensitivity: ,0.823529, specificity: ,0.273973,
+Actual Non-RT, 53, 20, ,precision: ,0.208955, recall: ,0.823529, f-measure: ,0.333333,
+
+repetitions:, 1, fold:, 3, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 3, 19, ,accuracy: ,0.777778, sensitivity: ,0.136364, specificity: ,0.985294,
+Actual Non-RT, 1, 67, ,precision: ,0.750000, recall: ,0.136364, f-measure: ,0.230769,
+
+repetitions:, 1, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 5, ,accuracy: ,0.466667, sensitivity: ,0.772727, specificity: ,0.367647,
+Actual Non-RT, 43, 25, ,precision: ,0.283333, recall: ,0.772727, f-measure: ,0.414634,
+
+repetitions:, 1, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 6, ,accuracy: ,0.433333, sensitivity: ,0.727273, specificity: ,0.338235,
+Actual Non-RT, 45, 23, ,precision: ,0.262295, recall: ,0.727273, f-measure: ,0.385542,
+
+repetitions:, 1, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 6, ,accuracy: ,0.388889, sensitivity: ,0.727273, specificity: ,0.279412,
+Actual Non-RT, 49, 19, ,precision: ,0.246154, recall: ,0.727273, f-measure: ,0.367816,
+
+repetitions:, 1, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 5, ,accuracy: ,0.400000, sensitivity: ,0.772727, specificity: ,0.279412,
+Actual Non-RT, 49, 19, ,precision: ,0.257576, recall: ,0.772727, f-measure: ,0.386364,
+
+repetitions:, 1, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 4, ,accuracy: ,0.488889, sensitivity: ,0.818182, specificity: ,0.382353,
+Actual Non-RT, 42, 26, ,precision: ,0.300000, recall: ,0.818182, f-measure: ,0.439024,
+
+repetitions:, 1, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 9, ,accuracy: ,0.400000, sensitivity: ,0.590909, specificity: ,0.338235,
+Actual Non-RT, 45, 23, ,precision: ,0.224138, recall: ,0.590909, f-measure: ,0.325000,
+
+repetitions:, 1, fold:, 4, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 10, ,accuracy: ,0.800000, sensitivity: ,0.565217, specificity: ,0.880597,
+Actual Non-RT, 8, 59, ,precision: ,0.619048, recall: ,0.565217, f-measure: ,0.590909,
+
+repetitions:, 1, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 5, ,accuracy: ,0.477778, sensitivity: ,0.782609, specificity: ,0.373134,
+Actual Non-RT, 42, 25, ,precision: ,0.300000, recall: ,0.782609, f-measure: ,0.433735,
+
+repetitions:, 1, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 5, ,accuracy: ,0.411111, sensitivity: ,0.782609, specificity: ,0.283582,
+Actual Non-RT, 48, 19, ,precision: ,0.272727, recall: ,0.782609, f-measure: ,0.404494,
+
+repetitions:, 1, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 21, 2, ,accuracy: ,0.455556, sensitivity: ,0.913043, specificity: ,0.298507,
+Actual Non-RT, 47, 20, ,precision: ,0.308824, recall: ,0.913043, f-measure: ,0.461538,
+
+repetitions:, 1, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 3, ,accuracy: ,0.422222, sensitivity: ,0.869565, specificity: ,0.268657,
+Actual Non-RT, 49, 18, ,precision: ,0.289855, recall: ,0.869565, f-measure: ,0.434783,
+
+repetitions:, 1, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 5, ,accuracy: ,0.377778, sensitivity: ,0.782609, specificity: ,0.238806,
+Actual Non-RT, 51, 16, ,precision: ,0.260870, recall: ,0.782609, f-measure: ,0.391304,
+
+repetitions:, 1, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 7, ,accuracy: ,0.411111, sensitivity: ,0.695652, specificity: ,0.313433,
+Actual Non-RT, 46, 21, ,precision: ,0.258065, recall: ,0.695652, f-measure: ,0.376471,
+
+repetitions:, 1, fold:, 5, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 9, 11, ,accuracy: ,0.700000, sensitivity: ,0.450000, specificity: ,0.771429,
+Actual Non-RT, 16, 54, ,precision: ,0.360000, recall: ,0.450000, f-measure: ,0.400000,
+
+repetitions:, 1, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 5, ,accuracy: ,0.388889, sensitivity: ,0.750000, specificity: ,0.285714,
+Actual Non-RT, 50, 20, ,precision: ,0.230769, recall: ,0.750000, f-measure: ,0.352941,
+
+repetitions:, 1, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 2, ,accuracy: ,0.433333, sensitivity: ,0.900000, specificity: ,0.300000,
+Actual Non-RT, 49, 21, ,precision: ,0.268657, recall: ,0.900000, f-measure: ,0.413793,
+
+repetitions:, 1, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 6, ,accuracy: ,0.377778, sensitivity: ,0.700000, specificity: ,0.285714,
+Actual Non-RT, 50, 20, ,precision: ,0.218750, recall: ,0.700000, f-measure: ,0.333333,
+
+repetitions:, 1, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 5, ,accuracy: ,0.433333, sensitivity: ,0.750000, specificity: ,0.342857,
+Actual Non-RT, 46, 24, ,precision: ,0.245902, recall: ,0.750000, f-measure: ,0.370370,
+
+repetitions:, 1, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.411111, sensitivity: ,0.850000, specificity: ,0.285714,
+Actual Non-RT, 50, 20, ,precision: ,0.253731, recall: ,0.850000, f-measure: ,0.390805,
+
+repetitions:, 1, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 5, ,accuracy: ,0.477778, sensitivity: ,0.750000, specificity: ,0.400000,
+Actual Non-RT, 42, 28, ,precision: ,0.263158, recall: ,0.750000, f-measure: ,0.389610,
+
+repetitions:, 1, fold:, 6, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 15, ,accuracy: ,0.755556, sensitivity: ,0.347826, specificity: ,0.895522,
+Actual Non-RT, 7, 60, ,precision: ,0.533333, recall: ,0.347826, f-measure: ,0.421053,
+
+repetitions:, 1, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 7, ,accuracy: ,0.444444, sensitivity: ,0.695652, specificity: ,0.358209,
+Actual Non-RT, 43, 24, ,precision: ,0.271186, recall: ,0.695652, f-measure: ,0.390244,
+
+repetitions:, 1, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 21, 2, ,accuracy: ,0.488889, sensitivity: ,0.913043, specificity: ,0.343284,
+Actual Non-RT, 44, 23, ,precision: ,0.323077, recall: ,0.913043, f-measure: ,0.477273,
+
+repetitions:, 1, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 21, 2, ,accuracy: ,0.522222, sensitivity: ,0.913043, specificity: ,0.388060,
+Actual Non-RT, 41, 26, ,precision: ,0.338710, recall: ,0.913043, f-measure: ,0.494118,
+
+repetitions:, 1, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 3, ,accuracy: ,0.455556, sensitivity: ,0.869565, specificity: ,0.313433,
+Actual Non-RT, 46, 21, ,precision: ,0.303030, recall: ,0.869565, f-measure: ,0.449438,
+
+repetitions:, 1, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 4, ,accuracy: ,0.433333, sensitivity: ,0.826087, specificity: ,0.298507,
+Actual Non-RT, 47, 20, ,precision: ,0.287879, recall: ,0.826087, f-measure: ,0.426966,
+
+repetitions:, 1, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 5, ,accuracy: ,0.511111, sensitivity: ,0.782609, specificity: ,0.417910,
+Actual Non-RT, 39, 28, ,precision: ,0.315789, recall: ,0.782609, f-measure: ,0.450000,
+
+repetitions:, 1, fold:, 7, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 16, ,accuracy: ,0.722222, sensitivity: ,0.304348, specificity: ,0.865672,
+Actual Non-RT, 9, 58, ,precision: ,0.437500, recall: ,0.304348, f-measure: ,0.358974,
+
+repetitions:, 1, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 3, ,accuracy: ,0.433333, sensitivity: ,0.869565, specificity: ,0.283582,
+Actual Non-RT, 48, 19, ,precision: ,0.294118, recall: ,0.869565, f-measure: ,0.439560,
+
+repetitions:, 1, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 5, ,accuracy: ,0.388889, sensitivity: ,0.782609, specificity: ,0.253731,
+Actual Non-RT, 50, 17, ,precision: ,0.264706, recall: ,0.782609, f-measure: ,0.395604,
+
+repetitions:, 1, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 8, ,accuracy: ,0.400000, sensitivity: ,0.652174, specificity: ,0.313433,
+Actual Non-RT, 46, 21, ,precision: ,0.245902, recall: ,0.652174, f-measure: ,0.357143,
+
+repetitions:, 1, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 6, ,accuracy: ,0.388889, sensitivity: ,0.739130, specificity: ,0.268657,
+Actual Non-RT, 49, 18, ,precision: ,0.257576, recall: ,0.739130, f-measure: ,0.382022,
+
+repetitions:, 1, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 5, ,accuracy: ,0.444444, sensitivity: ,0.782609, specificity: ,0.328358,
+Actual Non-RT, 45, 22, ,precision: ,0.285714, recall: ,0.782609, f-measure: ,0.418605,
+
+repetitions:, 1, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 7, ,accuracy: ,0.466667, sensitivity: ,0.695652, specificity: ,0.388060,
+Actual Non-RT, 41, 26, ,precision: ,0.280702, recall: ,0.695652, f-measure: ,0.400000,
+
+repetitions:, 1, fold:, 8, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 10, ,accuracy: ,0.733333, sensitivity: ,0.411765, specificity: ,0.808219,
+Actual Non-RT, 14, 59, ,precision: ,0.333333, recall: ,0.411765, f-measure: ,0.368421,
+
+repetitions:, 1, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 4, ,accuracy: ,0.344444, sensitivity: ,0.764706, specificity: ,0.246575,
+Actual Non-RT, 55, 18, ,precision: ,0.191176, recall: ,0.764706, f-measure: ,0.305882,
+
+repetitions:, 1, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 4, ,accuracy: ,0.422222, sensitivity: ,0.764706, specificity: ,0.342466,
+Actual Non-RT, 48, 25, ,precision: ,0.213115, recall: ,0.764706, f-measure: ,0.333333,
+
+repetitions:, 1, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.422222, sensitivity: ,0.823529, specificity: ,0.328767,
+Actual Non-RT, 49, 24, ,precision: ,0.222222, recall: ,0.823529, f-measure: ,0.350000,
+
+repetitions:, 1, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.400000, sensitivity: ,0.823529, specificity: ,0.301370,
+Actual Non-RT, 51, 22, ,precision: ,0.215385, recall: ,0.823529, f-measure: ,0.341463,
+
+repetitions:, 1, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 6, ,accuracy: ,0.488889, sensitivity: ,0.647059, specificity: ,0.452055,
+Actual Non-RT, 40, 33, ,precision: ,0.215686, recall: ,0.647059, f-measure: ,0.323529,
+
+repetitions:, 1, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 5, ,accuracy: ,0.311111, sensitivity: ,0.705882, specificity: ,0.219178,
+Actual Non-RT, 57, 16, ,precision: ,0.173913, recall: ,0.705882, f-measure: ,0.279070,
+
+repetitions:, 1, fold:, 9, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 11, ,accuracy: ,0.833333, sensitivity: ,0.388889, specificity: ,0.944444,
+Actual Non-RT, 4, 68, ,precision: ,0.636364, recall: ,0.388889, f-measure: ,0.482759,
+
+repetitions:, 1, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 2, ,accuracy: ,0.455556, sensitivity: ,0.888889, specificity: ,0.347222,
+Actual Non-RT, 47, 25, ,precision: ,0.253968, recall: ,0.888889, f-measure: ,0.395062,
+
+repetitions:, 1, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 4, ,accuracy: ,0.444444, sensitivity: ,0.777778, specificity: ,0.361111,
+Actual Non-RT, 46, 26, ,precision: ,0.233333, recall: ,0.777778, f-measure: ,0.358974,
+
+repetitions:, 1, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 5, ,accuracy: ,0.400000, sensitivity: ,0.722222, specificity: ,0.319444,
+Actual Non-RT, 49, 23, ,precision: ,0.209677, recall: ,0.722222, f-measure: ,0.325000,
+
+repetitions:, 1, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 6, ,accuracy: ,0.422222, sensitivity: ,0.666667, specificity: ,0.361111,
+Actual Non-RT, 46, 26, ,precision: ,0.206897, recall: ,0.666667, f-measure: ,0.315789,
+
+repetitions:, 1, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 5, ,accuracy: ,0.366667, sensitivity: ,0.722222, specificity: ,0.277778,
+Actual Non-RT, 52, 20, ,precision: ,0.200000, recall: ,0.722222, f-measure: ,0.313253,
+
+repetitions:, 1, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 2, ,accuracy: ,0.388889, sensitivity: ,0.888889, specificity: ,0.263889,
+Actual Non-RT, 53, 19, ,precision: ,0.231884, recall: ,0.888889, f-measure: ,0.367816,
+
+repetitions:, 1, fold:, 10, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 3, ,accuracy: ,0.477778, sensitivity: ,0.769231, specificity: ,0.428571,
+Actual Non-RT, 44, 33, ,precision: ,0.185185, recall: ,0.769231, f-measure: ,0.298507,
+
+repetitions:, 1, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 9, 4, ,accuracy: ,0.455556, sensitivity: ,0.692308, specificity: ,0.415584,
+Actual Non-RT, 45, 32, ,precision: ,0.166667, recall: ,0.692308, f-measure: ,0.268657,
+
+repetitions:, 1, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 3, ,accuracy: ,0.422222, sensitivity: ,0.769231, specificity: ,0.363636,
+Actual Non-RT, 49, 28, ,precision: ,0.169492, recall: ,0.769231, f-measure: ,0.277778,
+
+repetitions:, 1, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 5, ,accuracy: ,0.411111, sensitivity: ,0.615385, specificity: ,0.376623,
+Actual Non-RT, 48, 29, ,precision: ,0.142857, recall: ,0.615385, f-measure: ,0.231884,
+
+repetitions:, 1, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 2, ,accuracy: ,0.411111, sensitivity: ,0.846154, specificity: ,0.337662,
+Actual Non-RT, 51, 26, ,precision: ,0.177419, recall: ,0.846154, f-measure: ,0.293333,
+
+repetitions:, 1, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 9, 4, ,accuracy: ,0.444444, sensitivity: ,0.692308, specificity: ,0.402597,
+Actual Non-RT, 46, 31, ,precision: ,0.163636, recall: ,0.692308, f-measure: ,0.264706,
+
+repetitions:, 1, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 6, ,accuracy: ,0.411111, sensitivity: ,0.538462, specificity: ,0.389610,
+Actual Non-RT, 47, 30, ,precision: ,0.129630, recall: ,0.538462, f-measure: ,0.208955,
+
+repetitions:, 2, fold:, 1, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 17, ,accuracy: ,0.700000, sensitivity: ,0.291667, specificity: ,0.848485,
+Actual Non-RT, 10, 56, ,precision: ,0.411765, recall: ,0.291667, f-measure: ,0.341463,
+
+repetitions:, 2, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 22, 2, ,accuracy: ,0.422222, sensitivity: ,0.916667, specificity: ,0.242424,
+Actual Non-RT, 50, 16, ,precision: ,0.305556, recall: ,0.916667, f-measure: ,0.458333,
+
+repetitions:, 2, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 4, ,accuracy: ,0.466667, sensitivity: ,0.833333, specificity: ,0.333333,
+Actual Non-RT, 44, 22, ,precision: ,0.312500, recall: ,0.833333, f-measure: ,0.454545,
+
+repetitions:, 2, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 5, ,accuracy: ,0.400000, sensitivity: ,0.791667, specificity: ,0.257576,
+Actual Non-RT, 49, 17, ,precision: ,0.279412, recall: ,0.791667, f-measure: ,0.413043,
+
+repetitions:, 2, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 4, ,accuracy: ,0.466667, sensitivity: ,0.833333, specificity: ,0.333333,
+Actual Non-RT, 44, 22, ,precision: ,0.312500, recall: ,0.833333, f-measure: ,0.454545,
+
+repetitions:, 2, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 5, ,accuracy: ,0.455556, sensitivity: ,0.791667, specificity: ,0.333333,
+Actual Non-RT, 44, 22, ,precision: ,0.301587, recall: ,0.791667, f-measure: ,0.436782,
+
+repetitions:, 2, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 23, 1, ,accuracy: ,0.511111, sensitivity: ,0.958333, specificity: ,0.348485,
+Actual Non-RT, 43, 23, ,precision: ,0.348485, recall: ,0.958333, f-measure: ,0.511111,
+
+repetitions:, 2, fold:, 2, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 15, ,accuracy: ,0.788889, sensitivity: ,0.318182, specificity: ,0.941176,
+Actual Non-RT, 4, 64, ,precision: ,0.636364, recall: ,0.318182, f-measure: ,0.424242,
+
+repetitions:, 2, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 3, ,accuracy: ,0.433333, sensitivity: ,0.863636, specificity: ,0.294118,
+Actual Non-RT, 48, 20, ,precision: ,0.283582, recall: ,0.863636, f-measure: ,0.426966,
+
+repetitions:, 2, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 4, ,accuracy: ,0.444444, sensitivity: ,0.818182, specificity: ,0.323529,
+Actual Non-RT, 46, 22, ,precision: ,0.281250, recall: ,0.818182, f-measure: ,0.418605,
+
+repetitions:, 2, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 2, ,accuracy: ,0.400000, sensitivity: ,0.909091, specificity: ,0.235294,
+Actual Non-RT, 52, 16, ,precision: ,0.277778, recall: ,0.909091, f-measure: ,0.425532,
+
+repetitions:, 2, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 4, ,accuracy: ,0.422222, sensitivity: ,0.818182, specificity: ,0.294118,
+Actual Non-RT, 48, 20, ,precision: ,0.272727, recall: ,0.818182, f-measure: ,0.409091,
+
+repetitions:, 2, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 6, ,accuracy: ,0.500000, sensitivity: ,0.727273, specificity: ,0.426471,
+Actual Non-RT, 39, 29, ,precision: ,0.290909, recall: ,0.727273, f-measure: ,0.415584,
+
+repetitions:, 2, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 5, ,accuracy: ,0.422222, sensitivity: ,0.772727, specificity: ,0.308824,
+Actual Non-RT, 47, 21, ,precision: ,0.265625, recall: ,0.772727, f-measure: ,0.395349,
+
+repetitions:, 2, fold:, 3, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 4, 19, ,accuracy: ,0.744444, sensitivity: ,0.173913, specificity: ,0.940298,
+Actual Non-RT, 4, 63, ,precision: ,0.500000, recall: ,0.173913, f-measure: ,0.258065,
+
+repetitions:, 2, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 6, ,accuracy: ,0.511111, sensitivity: ,0.739130, specificity: ,0.432836,
+Actual Non-RT, 38, 29, ,precision: ,0.309091, recall: ,0.739130, f-measure: ,0.435897,
+
+repetitions:, 2, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 7, ,accuracy: ,0.466667, sensitivity: ,0.695652, specificity: ,0.388060,
+Actual Non-RT, 41, 26, ,precision: ,0.280702, recall: ,0.695652, f-measure: ,0.400000,
+
+repetitions:, 2, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 4, ,accuracy: ,0.444444, sensitivity: ,0.826087, specificity: ,0.313433,
+Actual Non-RT, 46, 21, ,precision: ,0.292308, recall: ,0.826087, f-measure: ,0.431818,
+
+repetitions:, 2, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 5, ,accuracy: ,0.466667, sensitivity: ,0.782609, specificity: ,0.358209,
+Actual Non-RT, 43, 24, ,precision: ,0.295082, recall: ,0.782609, f-measure: ,0.428571,
+
+repetitions:, 2, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 4, ,accuracy: ,0.522222, sensitivity: ,0.826087, specificity: ,0.417910,
+Actual Non-RT, 39, 28, ,precision: ,0.327586, recall: ,0.826087, f-measure: ,0.469136,
+
+repetitions:, 2, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 4, ,accuracy: ,0.477778, sensitivity: ,0.826087, specificity: ,0.358209,
+Actual Non-RT, 43, 24, ,precision: ,0.306452, recall: ,0.826087, f-measure: ,0.447059,
+
+repetitions:, 2, fold:, 4, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 5, 9, ,accuracy: ,0.788889, sensitivity: ,0.357143, specificity: ,0.868421,
+Actual Non-RT, 10, 66, ,precision: ,0.333333, recall: ,0.357143, f-measure: ,0.344828,
+
+repetitions:, 2, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 4, ,accuracy: ,0.433333, sensitivity: ,0.714286, specificity: ,0.381579,
+Actual Non-RT, 47, 29, ,precision: ,0.175439, recall: ,0.714286, f-measure: ,0.281690,
+
+repetitions:, 2, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 4, ,accuracy: ,0.444444, sensitivity: ,0.714286, specificity: ,0.394737,
+Actual Non-RT, 46, 30, ,precision: ,0.178571, recall: ,0.714286, f-measure: ,0.285714,
+
+repetitions:, 2, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 3, ,accuracy: ,0.477778, sensitivity: ,0.785714, specificity: ,0.421053,
+Actual Non-RT, 44, 32, ,precision: ,0.200000, recall: ,0.785714, f-measure: ,0.318841,
+
+repetitions:, 2, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 4, ,accuracy: ,0.355556, sensitivity: ,0.714286, specificity: ,0.289474,
+Actual Non-RT, 54, 22, ,precision: ,0.156250, recall: ,0.714286, f-measure: ,0.256410,
+
+repetitions:, 2, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 4, ,accuracy: ,0.366667, sensitivity: ,0.714286, specificity: ,0.302632,
+Actual Non-RT, 53, 23, ,precision: ,0.158730, recall: ,0.714286, f-measure: ,0.259740,
+
+repetitions:, 2, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 7, ,accuracy: ,0.377778, sensitivity: ,0.500000, specificity: ,0.355263,
+Actual Non-RT, 49, 27, ,precision: ,0.125000, recall: ,0.500000, f-measure: ,0.200000,
+
+repetitions:, 2, fold:, 5, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 9, ,accuracy: ,0.588889, sensitivity: ,0.470588, specificity: ,0.616438,
+Actual Non-RT, 28, 45, ,precision: ,0.222222, recall: ,0.470588, f-measure: ,0.301887,
+
+repetitions:, 2, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.411111, sensitivity: ,0.823529, specificity: ,0.315068,
+Actual Non-RT, 50, 23, ,precision: ,0.218750, recall: ,0.823529, f-measure: ,0.345679,
+
+repetitions:, 2, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.477778, sensitivity: ,0.823529, specificity: ,0.397260,
+Actual Non-RT, 44, 29, ,precision: ,0.241379, recall: ,0.823529, f-measure: ,0.373333,
+
+repetitions:, 2, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 6, ,accuracy: ,0.511111, sensitivity: ,0.647059, specificity: ,0.479452,
+Actual Non-RT, 38, 35, ,precision: ,0.224490, recall: ,0.647059, f-measure: ,0.333333,
+
+repetitions:, 2, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.466667, sensitivity: ,0.823529, specificity: ,0.383562,
+Actual Non-RT, 45, 28, ,precision: ,0.237288, recall: ,0.823529, f-measure: ,0.368421,
+
+repetitions:, 2, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.411111, sensitivity: ,0.823529, specificity: ,0.315068,
+Actual Non-RT, 50, 23, ,precision: ,0.218750, recall: ,0.823529, f-measure: ,0.345679,
+
+repetitions:, 2, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.466667, sensitivity: ,0.823529, specificity: ,0.383562,
+Actual Non-RT, 45, 28, ,precision: ,0.237288, recall: ,0.823529, f-measure: ,0.368421,
+
+repetitions:, 2, fold:, 6, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 14, ,accuracy: ,0.788889, sensitivity: ,0.363636, specificity: ,0.926471,
+Actual Non-RT, 5, 63, ,precision: ,0.615385, recall: ,0.363636, f-measure: ,0.457143,
+
+repetitions:, 2, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 8, ,accuracy: ,0.433333, sensitivity: ,0.636364, specificity: ,0.367647,
+Actual Non-RT, 43, 25, ,precision: ,0.245614, recall: ,0.636364, f-measure: ,0.354430,
+
+repetitions:, 2, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 6, ,accuracy: ,0.411111, sensitivity: ,0.727273, specificity: ,0.308824,
+Actual Non-RT, 47, 21, ,precision: ,0.253968, recall: ,0.727273, f-measure: ,0.376471,
+
+repetitions:, 2, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 6, ,accuracy: ,0.333333, sensitivity: ,0.727273, specificity: ,0.205882,
+Actual Non-RT, 54, 14, ,precision: ,0.228571, recall: ,0.727273, f-measure: ,0.347826,
+
+repetitions:, 2, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 6, ,accuracy: ,0.433333, sensitivity: ,0.727273, specificity: ,0.338235,
+Actual Non-RT, 45, 23, ,precision: ,0.262295, recall: ,0.727273, f-measure: ,0.385542,
+
+repetitions:, 2, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 5, ,accuracy: ,0.488889, sensitivity: ,0.772727, specificity: ,0.397059,
+Actual Non-RT, 41, 27, ,precision: ,0.293103, recall: ,0.772727, f-measure: ,0.425000,
+
+repetitions:, 2, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 8, ,accuracy: ,0.433333, sensitivity: ,0.636364, specificity: ,0.367647,
+Actual Non-RT, 43, 25, ,precision: ,0.245614, recall: ,0.636364, f-measure: ,0.354430,
+
+repetitions:, 2, fold:, 7, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 6, ,accuracy: ,0.855556, sensitivity: ,0.571429, specificity: ,0.907895,
+Actual Non-RT, 7, 69, ,precision: ,0.533333, recall: ,0.571429, f-measure: ,0.551724,
+
+repetitions:, 2, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 1, ,accuracy: ,0.388889, sensitivity: ,0.928571, specificity: ,0.289474,
+Actual Non-RT, 54, 22, ,precision: ,0.194030, recall: ,0.928571, f-measure: ,0.320988,
+
+repetitions:, 2, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 2, ,accuracy: ,0.377778, sensitivity: ,0.857143, specificity: ,0.289474,
+Actual Non-RT, 54, 22, ,precision: ,0.181818, recall: ,0.857143, f-measure: ,0.300000,
+
+repetitions:, 2, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 1, ,accuracy: ,0.344444, sensitivity: ,0.928571, specificity: ,0.236842,
+Actual Non-RT, 58, 18, ,precision: ,0.183099, recall: ,0.928571, f-measure: ,0.305882,
+
+repetitions:, 2, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 3, ,accuracy: ,0.455556, sensitivity: ,0.785714, specificity: ,0.394737,
+Actual Non-RT, 46, 30, ,precision: ,0.192982, recall: ,0.785714, f-measure: ,0.309859,
+
+repetitions:, 2, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 3, ,accuracy: ,0.455556, sensitivity: ,0.785714, specificity: ,0.394737,
+Actual Non-RT, 46, 30, ,precision: ,0.192982, recall: ,0.785714, f-measure: ,0.309859,
+
+repetitions:, 2, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 1, ,accuracy: ,0.444444, sensitivity: ,0.928571, specificity: ,0.355263,
+Actual Non-RT, 49, 27, ,precision: ,0.209677, recall: ,0.928571, f-measure: ,0.342105,
+
+repetitions:, 2, fold:, 8, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 4, 13, ,accuracy: ,0.744444, sensitivity: ,0.235294, specificity: ,0.863014,
+Actual Non-RT, 10, 63, ,precision: ,0.285714, recall: ,0.235294, f-measure: ,0.258065,
+
+repetitions:, 2, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 2, ,accuracy: ,0.466667, sensitivity: ,0.882353, specificity: ,0.369863,
+Actual Non-RT, 46, 27, ,precision: ,0.245902, recall: ,0.882353, f-measure: ,0.384615,
+
+repetitions:, 2, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 2, ,accuracy: ,0.466667, sensitivity: ,0.882353, specificity: ,0.369863,
+Actual Non-RT, 46, 27, ,precision: ,0.245902, recall: ,0.882353, f-measure: ,0.384615,
+
+repetitions:, 2, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.411111, sensitivity: ,0.823529, specificity: ,0.315068,
+Actual Non-RT, 50, 23, ,precision: ,0.218750, recall: ,0.823529, f-measure: ,0.345679,
+
+repetitions:, 2, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 1, ,accuracy: ,0.477778, sensitivity: ,0.941176, specificity: ,0.369863,
+Actual Non-RT, 46, 27, ,precision: ,0.258065, recall: ,0.941176, f-measure: ,0.405063,
+
+repetitions:, 2, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 4, ,accuracy: ,0.400000, sensitivity: ,0.764706, specificity: ,0.315068,
+Actual Non-RT, 50, 23, ,precision: ,0.206349, recall: ,0.764706, f-measure: ,0.325000,
+
+repetitions:, 2, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 2, ,accuracy: ,0.466667, sensitivity: ,0.882353, specificity: ,0.369863,
+Actual Non-RT, 46, 27, ,precision: ,0.245902, recall: ,0.882353, f-measure: ,0.384615,
+
+repetitions:, 2, fold:, 9, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 3, 18, ,accuracy: ,0.766667, sensitivity: ,0.142857, specificity: ,0.956522,
+Actual Non-RT, 3, 66, ,precision: ,0.500000, recall: ,0.142857, f-measure: ,0.222222,
+
+repetitions:, 2, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 6, ,accuracy: ,0.444444, sensitivity: ,0.714286, specificity: ,0.362319,
+Actual Non-RT, 44, 25, ,precision: ,0.254237, recall: ,0.714286, f-measure: ,0.375000,
+
+repetitions:, 2, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 4, ,accuracy: ,0.488889, sensitivity: ,0.809524, specificity: ,0.391304,
+Actual Non-RT, 42, 27, ,precision: ,0.288136, recall: ,0.809524, f-measure: ,0.425000,
+
+repetitions:, 2, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 4, ,accuracy: ,0.444444, sensitivity: ,0.809524, specificity: ,0.333333,
+Actual Non-RT, 46, 23, ,precision: ,0.269841, recall: ,0.809524, f-measure: ,0.404762,
+
+repetitions:, 2, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 7, ,accuracy: ,0.433333, sensitivity: ,0.666667, specificity: ,0.362319,
+Actual Non-RT, 44, 25, ,precision: ,0.241379, recall: ,0.666667, f-measure: ,0.354430,
+
+repetitions:, 2, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 6, ,accuracy: ,0.355556, sensitivity: ,0.714286, specificity: ,0.246377,
+Actual Non-RT, 52, 17, ,precision: ,0.223881, recall: ,0.714286, f-measure: ,0.340909,
+
+repetitions:, 2, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 3, ,accuracy: ,0.433333, sensitivity: ,0.857143, specificity: ,0.304348,
+Actual Non-RT, 48, 21, ,precision: ,0.272727, recall: ,0.857143, f-measure: ,0.413793,
+
+repetitions:, 2, fold:, 10, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 10, ,accuracy: ,0.844444, sensitivity: ,0.500000, specificity: ,0.942857,
+Actual Non-RT, 4, 66, ,precision: ,0.714286, recall: ,0.500000, f-measure: ,0.588235,
+
+repetitions:, 2, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 6, ,accuracy: ,0.366667, sensitivity: ,0.700000, specificity: ,0.271429,
+Actual Non-RT, 51, 19, ,precision: ,0.215385, recall: ,0.700000, f-measure: ,0.329412,
+
+repetitions:, 2, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 6, ,accuracy: ,0.377778, sensitivity: ,0.700000, specificity: ,0.285714,
+Actual Non-RT, 50, 20, ,precision: ,0.218750, recall: ,0.700000, f-measure: ,0.333333,
+
+repetitions:, 2, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.377778, sensitivity: ,0.850000, specificity: ,0.242857,
+Actual Non-RT, 53, 17, ,precision: ,0.242857, recall: ,0.850000, f-measure: ,0.377778,
+
+repetitions:, 2, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 2, ,accuracy: ,0.500000, sensitivity: ,0.900000, specificity: ,0.385714,
+Actual Non-RT, 43, 27, ,precision: ,0.295082, recall: ,0.900000, f-measure: ,0.444444,
+
+repetitions:, 2, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 5, ,accuracy: ,0.477778, sensitivity: ,0.750000, specificity: ,0.400000,
+Actual Non-RT, 42, 28, ,precision: ,0.263158, recall: ,0.750000, f-measure: ,0.389610,
+
+repetitions:, 2, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 1, ,accuracy: ,0.600000, sensitivity: ,0.950000, specificity: ,0.500000,
+Actual Non-RT, 35, 35, ,precision: ,0.351852, recall: ,0.950000, f-measure: ,0.513514,
+
+repetitions:, 3, fold:, 1, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 10, ,accuracy: ,0.811111, sensitivity: ,0.523810, specificity: ,0.898551,
+Actual Non-RT, 7, 62, ,precision: ,0.611111, recall: ,0.523810, f-measure: ,0.564103,
+
+repetitions:, 3, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 3, ,accuracy: ,0.422222, sensitivity: ,0.857143, specificity: ,0.289855,
+Actual Non-RT, 49, 20, ,precision: ,0.268657, recall: ,0.857143, f-measure: ,0.409091,
+
+repetitions:, 3, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 7, ,accuracy: ,0.466667, sensitivity: ,0.666667, specificity: ,0.405797,
+Actual Non-RT, 41, 28, ,precision: ,0.254545, recall: ,0.666667, f-measure: ,0.368421,
+
+repetitions:, 3, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 5, ,accuracy: ,0.377778, sensitivity: ,0.761905, specificity: ,0.260870,
+Actual Non-RT, 51, 18, ,precision: ,0.238806, recall: ,0.761905, f-measure: ,0.363636,
+
+repetitions:, 3, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 8, ,accuracy: ,0.388889, sensitivity: ,0.619048, specificity: ,0.318841,
+Actual Non-RT, 47, 22, ,precision: ,0.216667, recall: ,0.619048, f-measure: ,0.320988,
+
+repetitions:, 3, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 6, ,accuracy: ,0.422222, sensitivity: ,0.714286, specificity: ,0.333333,
+Actual Non-RT, 46, 23, ,precision: ,0.245902, recall: ,0.714286, f-measure: ,0.365854,
+
+repetitions:, 3, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 5, ,accuracy: ,0.400000, sensitivity: ,0.761905, specificity: ,0.289855,
+Actual Non-RT, 49, 20, ,precision: ,0.246154, recall: ,0.761905, f-measure: ,0.372093,
+
+repetitions:, 3, fold:, 2, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 14, ,accuracy: ,0.744444, sensitivity: ,0.363636, specificity: ,0.867647,
+Actual Non-RT, 9, 59, ,precision: ,0.470588, recall: ,0.363636, f-measure: ,0.410256,
+
+repetitions:, 3, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 4, ,accuracy: ,0.444444, sensitivity: ,0.818182, specificity: ,0.323529,
+Actual Non-RT, 46, 22, ,precision: ,0.281250, recall: ,0.818182, f-measure: ,0.418605,
+
+repetitions:, 3, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 7, ,accuracy: ,0.544444, sensitivity: ,0.681818, specificity: ,0.500000,
+Actual Non-RT, 34, 34, ,precision: ,0.306122, recall: ,0.681818, f-measure: ,0.422535,
+
+repetitions:, 3, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 9, ,accuracy: ,0.433333, sensitivity: ,0.590909, specificity: ,0.382353,
+Actual Non-RT, 42, 26, ,precision: ,0.236364, recall: ,0.590909, f-measure: ,0.337662,
+
+repetitions:, 3, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 7, ,accuracy: ,0.455556, sensitivity: ,0.681818, specificity: ,0.382353,
+Actual Non-RT, 42, 26, ,precision: ,0.263158, recall: ,0.681818, f-measure: ,0.379747,
+
+repetitions:, 3, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 8, ,accuracy: ,0.444444, sensitivity: ,0.636364, specificity: ,0.382353,
+Actual Non-RT, 42, 26, ,precision: ,0.250000, recall: ,0.636364, f-measure: ,0.358974,
+
+repetitions:, 3, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 2, ,accuracy: ,0.477778, sensitivity: ,0.909091, specificity: ,0.338235,
+Actual Non-RT, 45, 23, ,precision: ,0.307692, recall: ,0.909091, f-measure: ,0.459770,
+
+repetitions:, 3, fold:, 3, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 6, 6, ,accuracy: ,0.755556, sensitivity: ,0.500000, specificity: ,0.794872,
+Actual Non-RT, 16, 62, ,precision: ,0.272727, recall: ,0.500000, f-measure: ,0.352941,
+
+repetitions:, 3, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 1, ,accuracy: ,0.477778, sensitivity: ,0.916667, specificity: ,0.410256,
+Actual Non-RT, 46, 32, ,precision: ,0.192982, recall: ,0.916667, f-measure: ,0.318841,
+
+repetitions:, 3, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 4, ,accuracy: ,0.322222, sensitivity: ,0.666667, specificity: ,0.269231,
+Actual Non-RT, 57, 21, ,precision: ,0.123077, recall: ,0.666667, f-measure: ,0.207792,
+
+repetitions:, 3, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 1, ,accuracy: ,0.388889, sensitivity: ,0.916667, specificity: ,0.307692,
+Actual Non-RT, 54, 24, ,precision: ,0.169231, recall: ,0.916667, f-measure: ,0.285714,
+
+repetitions:, 3, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 2, ,accuracy: ,0.388889, sensitivity: ,0.833333, specificity: ,0.320513,
+Actual Non-RT, 53, 25, ,precision: ,0.158730, recall: ,0.833333, f-measure: ,0.266667,
+
+repetitions:, 3, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 1, ,accuracy: ,0.433333, sensitivity: ,0.916667, specificity: ,0.358974,
+Actual Non-RT, 50, 28, ,precision: ,0.180328, recall: ,0.916667, f-measure: ,0.301370,
+
+repetitions:, 3, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 9, 3, ,accuracy: ,0.388889, sensitivity: ,0.750000, specificity: ,0.333333,
+Actual Non-RT, 52, 26, ,precision: ,0.147541, recall: ,0.750000, f-measure: ,0.246575,
+
+repetitions:, 3, fold:, 4, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 2, 18, ,accuracy: ,0.733333, sensitivity: ,0.100000, specificity: ,0.914286,
+Actual Non-RT, 6, 64, ,precision: ,0.250000, recall: ,0.100000, f-measure: ,0.142857,
+
+repetitions:, 3, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 5, ,accuracy: ,0.466667, sensitivity: ,0.750000, specificity: ,0.385714,
+Actual Non-RT, 43, 27, ,precision: ,0.258621, recall: ,0.750000, f-measure: ,0.384615,
+
+repetitions:, 3, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 6, ,accuracy: ,0.433333, sensitivity: ,0.700000, specificity: ,0.357143,
+Actual Non-RT, 45, 25, ,precision: ,0.237288, recall: ,0.700000, f-measure: ,0.354430,
+
+repetitions:, 3, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 2, ,accuracy: ,0.477778, sensitivity: ,0.900000, specificity: ,0.357143,
+Actual Non-RT, 45, 25, ,precision: ,0.285714, recall: ,0.900000, f-measure: ,0.433735,
+
+repetitions:, 3, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 4, ,accuracy: ,0.433333, sensitivity: ,0.800000, specificity: ,0.328571,
+Actual Non-RT, 47, 23, ,precision: ,0.253968, recall: ,0.800000, f-measure: ,0.385542,
+
+repetitions:, 3, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 4, ,accuracy: ,0.444444, sensitivity: ,0.800000, specificity: ,0.342857,
+Actual Non-RT, 46, 24, ,precision: ,0.258065, recall: ,0.800000, f-measure: ,0.390244,
+
+repetitions:, 3, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 4, ,accuracy: ,0.522222, sensitivity: ,0.800000, specificity: ,0.442857,
+Actual Non-RT, 39, 31, ,precision: ,0.290909, recall: ,0.800000, f-measure: ,0.426667,
+
+repetitions:, 3, fold:, 5, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 10, ,accuracy: ,0.633333, sensitivity: ,0.565217, specificity: ,0.656716,
+Actual Non-RT, 23, 44, ,precision: ,0.361111, recall: ,0.565217, f-measure: ,0.440678,
+
+repetitions:, 3, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 3, ,accuracy: ,0.444444, sensitivity: ,0.869565, specificity: ,0.298507,
+Actual Non-RT, 47, 20, ,precision: ,0.298507, recall: ,0.869565, f-measure: ,0.444444,
+
+repetitions:, 3, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 21, 2, ,accuracy: ,0.455556, sensitivity: ,0.913043, specificity: ,0.298507,
+Actual Non-RT, 47, 20, ,precision: ,0.308824, recall: ,0.913043, f-measure: ,0.461538,
+
+repetitions:, 3, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 3, ,accuracy: ,0.533333, sensitivity: ,0.869565, specificity: ,0.417910,
+Actual Non-RT, 39, 28, ,precision: ,0.338983, recall: ,0.869565, f-measure: ,0.487805,
+
+repetitions:, 3, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 6, ,accuracy: ,0.433333, sensitivity: ,0.739130, specificity: ,0.328358,
+Actual Non-RT, 45, 22, ,precision: ,0.274194, recall: ,0.739130, f-measure: ,0.400000,
+
+repetitions:, 3, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 3, ,accuracy: ,0.477778, sensitivity: ,0.869565, specificity: ,0.343284,
+Actual Non-RT, 44, 23, ,precision: ,0.312500, recall: ,0.869565, f-measure: ,0.459770,
+
+repetitions:, 3, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 7, ,accuracy: ,0.455556, sensitivity: ,0.695652, specificity: ,0.373134,
+Actual Non-RT, 42, 25, ,precision: ,0.275862, recall: ,0.695652, f-measure: ,0.395062,
+
+repetitions:, 3, fold:, 6, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 5, ,accuracy: ,0.744444, sensitivity: ,0.722222, specificity: ,0.750000,
+Actual Non-RT, 18, 54, ,precision: ,0.419355, recall: ,0.722222, f-measure: ,0.530612,
+
+repetitions:, 3, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 4, ,accuracy: ,0.388889, sensitivity: ,0.777778, specificity: ,0.291667,
+Actual Non-RT, 51, 21, ,precision: ,0.215385, recall: ,0.777778, f-measure: ,0.337349,
+
+repetitions:, 3, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 2, ,accuracy: ,0.455556, sensitivity: ,0.888889, specificity: ,0.347222,
+Actual Non-RT, 47, 25, ,precision: ,0.253968, recall: ,0.888889, f-measure: ,0.395062,
+
+repetitions:, 3, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 6, ,accuracy: ,0.388889, sensitivity: ,0.666667, specificity: ,0.319444,
+Actual Non-RT, 49, 23, ,precision: ,0.196721, recall: ,0.666667, f-measure: ,0.303797,
+
+repetitions:, 3, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.422222, sensitivity: ,0.833333, specificity: ,0.319444,
+Actual Non-RT, 49, 23, ,precision: ,0.234375, recall: ,0.833333, f-measure: ,0.365854,
+
+repetitions:, 3, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.444444, sensitivity: ,0.833333, specificity: ,0.347222,
+Actual Non-RT, 47, 25, ,precision: ,0.241935, recall: ,0.833333, f-measure: ,0.375000,
+
+repetitions:, 3, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 1, ,accuracy: ,0.444444, sensitivity: ,0.944444, specificity: ,0.319444,
+Actual Non-RT, 49, 23, ,precision: ,0.257576, recall: ,0.944444, f-measure: ,0.404762,
+
+repetitions:, 3, fold:, 7, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 10, ,accuracy: ,0.700000, sensitivity: ,0.411765, specificity: ,0.767123,
+Actual Non-RT, 17, 56, ,precision: ,0.291667, recall: ,0.411765, f-measure: ,0.341463,
+
+repetitions:, 3, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 6, ,accuracy: ,0.411111, sensitivity: ,0.647059, specificity: ,0.356164,
+Actual Non-RT, 47, 26, ,precision: ,0.189655, recall: ,0.647059, f-measure: ,0.293333,
+
+repetitions:, 3, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 2, ,accuracy: ,0.366667, sensitivity: ,0.882353, specificity: ,0.246575,
+Actual Non-RT, 55, 18, ,precision: ,0.214286, recall: ,0.882353, f-measure: ,0.344828,
+
+repetitions:, 3, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.400000, sensitivity: ,0.823529, specificity: ,0.301370,
+Actual Non-RT, 51, 22, ,precision: ,0.215385, recall: ,0.823529, f-measure: ,0.341463,
+
+repetitions:, 3, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.344444, sensitivity: ,0.823529, specificity: ,0.232877,
+Actual Non-RT, 56, 17, ,precision: ,0.200000, recall: ,0.823529, f-measure: ,0.321839,
+
+repetitions:, 3, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 4, ,accuracy: ,0.433333, sensitivity: ,0.764706, specificity: ,0.356164,
+Actual Non-RT, 47, 26, ,precision: ,0.216667, recall: ,0.764706, f-measure: ,0.337662,
+
+repetitions:, 3, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 4, ,accuracy: ,0.400000, sensitivity: ,0.764706, specificity: ,0.315068,
+Actual Non-RT, 50, 23, ,precision: ,0.206349, recall: ,0.764706, f-measure: ,0.325000,
+
+repetitions:, 3, fold:, 8, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 6, 17, ,accuracy: ,0.777778, sensitivity: ,0.260870, specificity: ,0.955224,
+Actual Non-RT, 3, 64, ,precision: ,0.666667, recall: ,0.260870, f-measure: ,0.375000,
+
+repetitions:, 3, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 4, ,accuracy: ,0.411111, sensitivity: ,0.826087, specificity: ,0.268657,
+Actual Non-RT, 49, 18, ,precision: ,0.279412, recall: ,0.826087, f-measure: ,0.417582,
+
+repetitions:, 3, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 21, 2, ,accuracy: ,0.522222, sensitivity: ,0.913043, specificity: ,0.388060,
+Actual Non-RT, 41, 26, ,precision: ,0.338710, recall: ,0.913043, f-measure: ,0.494118,
+
+repetitions:, 3, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 8, ,accuracy: ,0.411111, sensitivity: ,0.652174, specificity: ,0.328358,
+Actual Non-RT, 45, 22, ,precision: ,0.250000, recall: ,0.652174, f-measure: ,0.361446,
+
+repetitions:, 3, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 7, ,accuracy: ,0.433333, sensitivity: ,0.695652, specificity: ,0.343284,
+Actual Non-RT, 44, 23, ,precision: ,0.266667, recall: ,0.695652, f-measure: ,0.385542,
+
+repetitions:, 3, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 6, ,accuracy: ,0.466667, sensitivity: ,0.739130, specificity: ,0.373134,
+Actual Non-RT, 42, 25, ,precision: ,0.288136, recall: ,0.739130, f-measure: ,0.414634,
+
+repetitions:, 3, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 4, ,accuracy: ,0.544444, sensitivity: ,0.826087, specificity: ,0.447761,
+Actual Non-RT, 37, 30, ,precision: ,0.339286, recall: ,0.826087, f-measure: ,0.481013,
+
+repetitions:, 3, fold:, 9, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 10, ,accuracy: ,0.677778, sensitivity: ,0.500000, specificity: ,0.728571,
+Actual Non-RT, 19, 51, ,precision: ,0.344828, recall: ,0.500000, f-measure: ,0.408163,
+
+repetitions:, 3, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 5, ,accuracy: ,0.388889, sensitivity: ,0.750000, specificity: ,0.285714,
+Actual Non-RT, 50, 20, ,precision: ,0.230769, recall: ,0.750000, f-measure: ,0.352941,
+
+repetitions:, 3, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 4, ,accuracy: ,0.333333, sensitivity: ,0.800000, specificity: ,0.200000,
+Actual Non-RT, 56, 14, ,precision: ,0.222222, recall: ,0.800000, f-measure: ,0.347826,
+
+repetitions:, 3, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.444444, sensitivity: ,0.850000, specificity: ,0.328571,
+Actual Non-RT, 47, 23, ,precision: ,0.265625, recall: ,0.850000, f-measure: ,0.404762,
+
+repetitions:, 3, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.444444, sensitivity: ,0.850000, specificity: ,0.328571,
+Actual Non-RT, 47, 23, ,precision: ,0.265625, recall: ,0.850000, f-measure: ,0.404762,
+
+repetitions:, 3, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 4, ,accuracy: ,0.444444, sensitivity: ,0.800000, specificity: ,0.342857,
+Actual Non-RT, 46, 24, ,precision: ,0.258065, recall: ,0.800000, f-measure: ,0.390244,
+
+repetitions:, 3, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.444444, sensitivity: ,0.850000, specificity: ,0.328571,
+Actual Non-RT, 47, 23, ,precision: ,0.265625, recall: ,0.850000, f-measure: ,0.404762,
+
+repetitions:, 3, fold:, 10, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 3, 15, ,accuracy: ,0.777778, sensitivity: ,0.166667, specificity: ,0.930556,
+Actual Non-RT, 5, 67, ,precision: ,0.375000, recall: ,0.166667, f-measure: ,0.230769,
+
+repetitions:, 3, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.344444, sensitivity: ,0.833333, specificity: ,0.222222,
+Actual Non-RT, 56, 16, ,precision: ,0.211268, recall: ,0.833333, f-measure: ,0.337079,
+
+repetitions:, 3, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.444444, sensitivity: ,0.833333, specificity: ,0.347222,
+Actual Non-RT, 47, 25, ,precision: ,0.241935, recall: ,0.833333, f-measure: ,0.375000,
+
+repetitions:, 3, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.400000, sensitivity: ,0.833333, specificity: ,0.291667,
+Actual Non-RT, 51, 21, ,precision: ,0.227273, recall: ,0.833333, f-measure: ,0.357143,
+
+repetitions:, 3, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.444444, sensitivity: ,0.833333, specificity: ,0.347222,
+Actual Non-RT, 47, 25, ,precision: ,0.241935, recall: ,0.833333, f-measure: ,0.375000,
+
+repetitions:, 3, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.411111, sensitivity: ,0.833333, specificity: ,0.305556,
+Actual Non-RT, 50, 22, ,precision: ,0.230769, recall: ,0.833333, f-measure: ,0.361446,
+
+repetitions:, 3, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 4, ,accuracy: ,0.366667, sensitivity: ,0.777778, specificity: ,0.263889,
+Actual Non-RT, 53, 19, ,precision: ,0.208955, recall: ,0.777778, f-measure: ,0.329412,
+
+repetitions:, 4, fold:, 1, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 2, 18, ,accuracy: ,0.733333, sensitivity: ,0.100000, specificity: ,0.914286,
+Actual Non-RT, 6, 64, ,precision: ,0.250000, recall: ,0.100000, f-measure: ,0.142857,
+
+repetitions:, 4, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.444444, sensitivity: ,0.850000, specificity: ,0.328571,
+Actual Non-RT, 47, 23, ,precision: ,0.265625, recall: ,0.850000, f-measure: ,0.404762,
+
+repetitions:, 4, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 7, ,accuracy: ,0.400000, sensitivity: ,0.650000, specificity: ,0.328571,
+Actual Non-RT, 47, 23, ,precision: ,0.216667, recall: ,0.650000, f-measure: ,0.325000,
+
+repetitions:, 4, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 1, ,accuracy: ,0.533333, sensitivity: ,0.950000, specificity: ,0.414286,
+Actual Non-RT, 41, 29, ,precision: ,0.316667, recall: ,0.950000, f-measure: ,0.475000,
+
+repetitions:, 4, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 4, ,accuracy: ,0.455556, sensitivity: ,0.800000, specificity: ,0.357143,
+Actual Non-RT, 45, 25, ,precision: ,0.262295, recall: ,0.800000, f-measure: ,0.395062,
+
+repetitions:, 4, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.466667, sensitivity: ,0.850000, specificity: ,0.357143,
+Actual Non-RT, 45, 25, ,precision: ,0.274194, recall: ,0.850000, f-measure: ,0.414634,
+
+repetitions:, 4, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.500000, sensitivity: ,0.850000, specificity: ,0.400000,
+Actual Non-RT, 42, 28, ,precision: ,0.288136, recall: ,0.850000, f-measure: ,0.430380,
+
+repetitions:, 4, fold:, 2, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 5, 11, ,accuracy: ,0.744444, sensitivity: ,0.312500, specificity: ,0.837838,
+Actual Non-RT, 12, 62, ,precision: ,0.294118, recall: ,0.312500, f-measure: ,0.303030,
+
+repetitions:, 4, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 4, ,accuracy: ,0.411111, sensitivity: ,0.750000, specificity: ,0.337838,
+Actual Non-RT, 49, 25, ,precision: ,0.196721, recall: ,0.750000, f-measure: ,0.311688,
+
+repetitions:, 4, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 6, ,accuracy: ,0.344444, sensitivity: ,0.625000, specificity: ,0.283784,
+Actual Non-RT, 53, 21, ,precision: ,0.158730, recall: ,0.625000, f-measure: ,0.253165,
+
+repetitions:, 4, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 4, ,accuracy: ,0.466667, sensitivity: ,0.750000, specificity: ,0.405405,
+Actual Non-RT, 44, 30, ,precision: ,0.214286, recall: ,0.750000, f-measure: ,0.333333,
+
+repetitions:, 4, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 5, ,accuracy: ,0.433333, sensitivity: ,0.687500, specificity: ,0.378378,
+Actual Non-RT, 46, 28, ,precision: ,0.192982, recall: ,0.687500, f-measure: ,0.301370,
+
+repetitions:, 4, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 3, ,accuracy: ,0.422222, sensitivity: ,0.812500, specificity: ,0.337838,
+Actual Non-RT, 49, 25, ,precision: ,0.209677, recall: ,0.812500, f-measure: ,0.333333,
+
+repetitions:, 4, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 9, 7, ,accuracy: ,0.366667, sensitivity: ,0.562500, specificity: ,0.324324,
+Actual Non-RT, 50, 24, ,precision: ,0.152542, recall: ,0.562500, f-measure: ,0.240000,
+
+repetitions:, 4, fold:, 3, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 18, ,accuracy: ,0.722222, sensitivity: ,0.307692, specificity: ,0.890625,
+Actual Non-RT, 7, 57, ,precision: ,0.533333, recall: ,0.307692, f-measure: ,0.390244,
+
+repetitions:, 4, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 6, ,accuracy: ,0.477778, sensitivity: ,0.769231, specificity: ,0.359375,
+Actual Non-RT, 41, 23, ,precision: ,0.327869, recall: ,0.769231, f-measure: ,0.459770,
+
+repetitions:, 4, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 6, ,accuracy: ,0.411111, sensitivity: ,0.769231, specificity: ,0.265625,
+Actual Non-RT, 47, 17, ,precision: ,0.298507, recall: ,0.769231, f-measure: ,0.430108,
+
+repetitions:, 4, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 9, ,accuracy: ,0.422222, sensitivity: ,0.653846, specificity: ,0.328125,
+Actual Non-RT, 43, 21, ,precision: ,0.283333, recall: ,0.653846, f-measure: ,0.395349,
+
+repetitions:, 4, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 24, 2, ,accuracy: ,0.500000, sensitivity: ,0.923077, specificity: ,0.328125,
+Actual Non-RT, 43, 21, ,precision: ,0.358209, recall: ,0.923077, f-measure: ,0.516129,
+
+repetitions:, 4, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 7, ,accuracy: ,0.455556, sensitivity: ,0.730769, specificity: ,0.343750,
+Actual Non-RT, 42, 22, ,precision: ,0.311475, recall: ,0.730769, f-measure: ,0.436782,
+
+repetitions:, 4, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 21, 5, ,accuracy: ,0.477778, sensitivity: ,0.807692, specificity: ,0.343750,
+Actual Non-RT, 42, 22, ,precision: ,0.333333, recall: ,0.807692, f-measure: ,0.471910,
+
+repetitions:, 4, fold:, 4, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 6, 13, ,accuracy: ,0.800000, sensitivity: ,0.315789, specificity: ,0.929577,
+Actual Non-RT, 5, 66, ,precision: ,0.545455, recall: ,0.315789, f-measure: ,0.400000,
+
+repetitions:, 4, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 3, ,accuracy: ,0.455556, sensitivity: ,0.842105, specificity: ,0.352113,
+Actual Non-RT, 46, 25, ,precision: ,0.258065, recall: ,0.842105, f-measure: ,0.395062,
+
+repetitions:, 4, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 3, ,accuracy: ,0.466667, sensitivity: ,0.842105, specificity: ,0.366197,
+Actual Non-RT, 45, 26, ,precision: ,0.262295, recall: ,0.842105, f-measure: ,0.400000,
+
+repetitions:, 4, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 4, ,accuracy: ,0.511111, sensitivity: ,0.789474, specificity: ,0.436620,
+Actual Non-RT, 40, 31, ,precision: ,0.272727, recall: ,0.789474, f-measure: ,0.405405,
+
+repetitions:, 4, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 5, ,accuracy: ,0.411111, sensitivity: ,0.736842, specificity: ,0.323944,
+Actual Non-RT, 48, 23, ,precision: ,0.225806, recall: ,0.736842, f-measure: ,0.345679,
+
+repetitions:, 4, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 3, ,accuracy: ,0.444444, sensitivity: ,0.842105, specificity: ,0.338028,
+Actual Non-RT, 47, 24, ,precision: ,0.253968, recall: ,0.842105, f-measure: ,0.390244,
+
+repetitions:, 4, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 4, ,accuracy: ,0.433333, sensitivity: ,0.789474, specificity: ,0.338028,
+Actual Non-RT, 47, 24, ,precision: ,0.241935, recall: ,0.789474, f-measure: ,0.370370,
+
+repetitions:, 4, fold:, 5, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 0, 19, ,accuracy: ,0.777778, sensitivity: ,0.000000, specificity: ,0.985915,
+Actual Non-RT, 1, 70, ,precision: ,0.000000, recall: ,0.000000, f-measure: ,0.000000,
+
+repetitions:, 4, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 6, ,accuracy: ,0.433333, sensitivity: ,0.684211, specificity: ,0.366197,
+Actual Non-RT, 45, 26, ,precision: ,0.224138, recall: ,0.684211, f-measure: ,0.337662,
+
+repetitions:, 4, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 4, ,accuracy: ,0.311111, sensitivity: ,0.789474, specificity: ,0.183099,
+Actual Non-RT, 58, 13, ,precision: ,0.205479, recall: ,0.789474, f-measure: ,0.326087,
+
+repetitions:, 4, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 3, ,accuracy: ,0.577778, sensitivity: ,0.842105, specificity: ,0.507042,
+Actual Non-RT, 35, 36, ,precision: ,0.313726, recall: ,0.842105, f-measure: ,0.457143,
+
+repetitions:, 4, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 8, ,accuracy: ,0.455556, sensitivity: ,0.578947, specificity: ,0.422535,
+Actual Non-RT, 41, 30, ,precision: ,0.211538, recall: ,0.578947, f-measure: ,0.309859,
+
+repetitions:, 4, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 6, ,accuracy: ,0.433333, sensitivity: ,0.684211, specificity: ,0.366197,
+Actual Non-RT, 45, 26, ,precision: ,0.224138, recall: ,0.684211, f-measure: ,0.337662,
+
+repetitions:, 4, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 2, ,accuracy: ,0.522222, sensitivity: ,0.894737, specificity: ,0.422535,
+Actual Non-RT, 41, 30, ,precision: ,0.293103, recall: ,0.894737, f-measure: ,0.441558,
+
+repetitions:, 4, fold:, 6, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 9, 10, ,accuracy: ,0.700000, sensitivity: ,0.473684, specificity: ,0.760563,
+Actual Non-RT, 17, 54, ,precision: ,0.346154, recall: ,0.473684, f-measure: ,0.400000,
+
+repetitions:, 4, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 6, ,accuracy: ,0.455556, sensitivity: ,0.684211, specificity: ,0.394366,
+Actual Non-RT, 43, 28, ,precision: ,0.232143, recall: ,0.684211, f-measure: ,0.346667,
+
+repetitions:, 4, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 7, ,accuracy: ,0.377778, sensitivity: ,0.631579, specificity: ,0.309859,
+Actual Non-RT, 49, 22, ,precision: ,0.196721, recall: ,0.631579, f-measure: ,0.300000,
+
+repetitions:, 4, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 3, ,accuracy: ,0.433333, sensitivity: ,0.842105, specificity: ,0.323944,
+Actual Non-RT, 48, 23, ,precision: ,0.250000, recall: ,0.842105, f-measure: ,0.385542,
+
+repetitions:, 4, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 2, ,accuracy: ,0.411111, sensitivity: ,0.894737, specificity: ,0.281690,
+Actual Non-RT, 51, 20, ,precision: ,0.250000, recall: ,0.894737, f-measure: ,0.390805,
+
+repetitions:, 4, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 3, ,accuracy: ,0.422222, sensitivity: ,0.842105, specificity: ,0.309859,
+Actual Non-RT, 49, 22, ,precision: ,0.246154, recall: ,0.842105, f-measure: ,0.380952,
+
+repetitions:, 4, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 3, ,accuracy: ,0.433333, sensitivity: ,0.842105, specificity: ,0.323944,
+Actual Non-RT, 48, 23, ,precision: ,0.250000, recall: ,0.842105, f-measure: ,0.385542,
+
+repetitions:, 4, fold:, 7, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 10, ,accuracy: ,0.700000, sensitivity: ,0.500000, specificity: ,0.757143,
+Actual Non-RT, 17, 53, ,precision: ,0.370370, recall: ,0.500000, f-measure: ,0.425532,
+
+repetitions:, 4, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 4, ,accuracy: ,0.422222, sensitivity: ,0.800000, specificity: ,0.314286,
+Actual Non-RT, 48, 22, ,precision: ,0.250000, recall: ,0.800000, f-measure: ,0.380952,
+
+repetitions:, 4, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 4, ,accuracy: ,0.411111, sensitivity: ,0.800000, specificity: ,0.300000,
+Actual Non-RT, 49, 21, ,precision: ,0.246154, recall: ,0.800000, f-measure: ,0.376471,
+
+repetitions:, 4, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 6, ,accuracy: ,0.422222, sensitivity: ,0.700000, specificity: ,0.342857,
+Actual Non-RT, 46, 24, ,precision: ,0.233333, recall: ,0.700000, f-measure: ,0.350000,
+
+repetitions:, 4, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 4, ,accuracy: ,0.455556, sensitivity: ,0.800000, specificity: ,0.357143,
+Actual Non-RT, 45, 25, ,precision: ,0.262295, recall: ,0.800000, f-measure: ,0.395062,
+
+repetitions:, 4, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 0, ,accuracy: ,0.411111, sensitivity: ,1.000000, specificity: ,0.242857,
+Actual Non-RT, 53, 17, ,precision: ,0.273973, recall: ,1.000000, f-measure: ,0.430108,
+
+repetitions:, 4, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.477778, sensitivity: ,0.850000, specificity: ,0.371429,
+Actual Non-RT, 44, 26, ,precision: ,0.278689, recall: ,0.850000, f-measure: ,0.419753,
+
+repetitions:, 4, fold:, 8, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 12, ,accuracy: ,0.733333, sensitivity: ,0.500000, specificity: ,0.818182,
+Actual Non-RT, 12, 54, ,precision: ,0.500000, recall: ,0.500000, f-measure: ,0.500000,
+
+repetitions:, 4, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 6, ,accuracy: ,0.411111, sensitivity: ,0.750000, specificity: ,0.287879,
+Actual Non-RT, 47, 19, ,precision: ,0.276923, recall: ,0.750000, f-measure: ,0.404494,
+
+repetitions:, 4, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 9, ,accuracy: ,0.400000, sensitivity: ,0.625000, specificity: ,0.318182,
+Actual Non-RT, 45, 21, ,precision: ,0.250000, recall: ,0.625000, f-measure: ,0.357143,
+
+repetitions:, 4, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 5, ,accuracy: ,0.477778, sensitivity: ,0.791667, specificity: ,0.363636,
+Actual Non-RT, 42, 24, ,precision: ,0.311475, recall: ,0.791667, f-measure: ,0.447059,
+
+repetitions:, 4, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 4, ,accuracy: ,0.466667, sensitivity: ,0.833333, specificity: ,0.333333,
+Actual Non-RT, 44, 22, ,precision: ,0.312500, recall: ,0.833333, f-measure: ,0.454545,
+
+repetitions:, 4, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 5, ,accuracy: ,0.344444, sensitivity: ,0.791667, specificity: ,0.181818,
+Actual Non-RT, 54, 12, ,precision: ,0.260274, recall: ,0.791667, f-measure: ,0.391753,
+
+repetitions:, 4, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 9, ,accuracy: ,0.355556, sensitivity: ,0.625000, specificity: ,0.257576,
+Actual Non-RT, 49, 17, ,precision: ,0.234375, recall: ,0.625000, f-measure: ,0.340909,
+
+repetitions:, 4, fold:, 9, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 8, 8, ,accuracy: ,0.766667, sensitivity: ,0.500000, specificity: ,0.824324,
+Actual Non-RT, 13, 61, ,precision: ,0.380952, recall: ,0.500000, f-measure: ,0.432432,
+
+repetitions:, 4, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 1, ,accuracy: ,0.433333, sensitivity: ,0.937500, specificity: ,0.324324,
+Actual Non-RT, 50, 24, ,precision: ,0.230769, recall: ,0.937500, f-measure: ,0.370370,
+
+repetitions:, 4, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 4, ,accuracy: ,0.466667, sensitivity: ,0.750000, specificity: ,0.405405,
+Actual Non-RT, 44, 30, ,precision: ,0.214286, recall: ,0.750000, f-measure: ,0.333333,
+
+repetitions:, 4, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 4, ,accuracy: ,0.500000, sensitivity: ,0.750000, specificity: ,0.445946,
+Actual Non-RT, 41, 33, ,precision: ,0.226415, recall: ,0.750000, f-measure: ,0.347826,
+
+repetitions:, 4, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 3, ,accuracy: ,0.444444, sensitivity: ,0.812500, specificity: ,0.364865,
+Actual Non-RT, 47, 27, ,precision: ,0.216667, recall: ,0.812500, f-measure: ,0.342105,
+
+repetitions:, 4, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 3, ,accuracy: ,0.400000, sensitivity: ,0.812500, specificity: ,0.310811,
+Actual Non-RT, 51, 23, ,precision: ,0.203125, recall: ,0.812500, f-measure: ,0.325000,
+
+repetitions:, 4, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 4, ,accuracy: ,0.377778, sensitivity: ,0.750000, specificity: ,0.297297,
+Actual Non-RT, 52, 22, ,precision: ,0.187500, recall: ,0.750000, f-measure: ,0.300000,
+
+repetitions:, 4, fold:, 10, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 5, 10, ,accuracy: ,0.666667, sensitivity: ,0.333333, specificity: ,0.733333,
+Actual Non-RT, 20, 55, ,precision: ,0.200000, recall: ,0.333333, f-measure: ,0.250000,
+
+repetitions:, 4, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 1, ,accuracy: ,0.455556, sensitivity: ,0.933333, specificity: ,0.360000,
+Actual Non-RT, 48, 27, ,precision: ,0.225806, recall: ,0.933333, f-measure: ,0.363636,
+
+repetitions:, 4, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 8, ,accuracy: ,0.388889, sensitivity: ,0.466667, specificity: ,0.373333,
+Actual Non-RT, 47, 28, ,precision: ,0.129630, recall: ,0.466667, f-measure: ,0.202899,
+
+repetitions:, 4, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 2, ,accuracy: ,0.400000, sensitivity: ,0.866667, specificity: ,0.306667,
+Actual Non-RT, 52, 23, ,precision: ,0.200000, recall: ,0.866667, f-measure: ,0.325000,
+
+repetitions:, 4, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 4, ,accuracy: ,0.344444, sensitivity: ,0.733333, specificity: ,0.266667,
+Actual Non-RT, 55, 20, ,precision: ,0.166667, recall: ,0.733333, f-measure: ,0.271605,
+
+repetitions:, 4, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 10, 5, ,accuracy: ,0.344444, sensitivity: ,0.666667, specificity: ,0.280000,
+Actual Non-RT, 54, 21, ,precision: ,0.156250, recall: ,0.666667, f-measure: ,0.253165,
+
+repetitions:, 4, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 4, ,accuracy: ,0.400000, sensitivity: ,0.733333, specificity: ,0.333333,
+Actual Non-RT, 50, 25, ,precision: ,0.180328, recall: ,0.733333, f-measure: ,0.289474,
+
+repetitions:, 5, fold:, 1, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 9, 9, ,accuracy: ,0.733333, sensitivity: ,0.500000, specificity: ,0.791667,
+Actual Non-RT, 15, 57, ,precision: ,0.375000, recall: ,0.500000, f-measure: ,0.428571,
+
+repetitions:, 5, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 6, ,accuracy: ,0.377778, sensitivity: ,0.666667, specificity: ,0.305556,
+Actual Non-RT, 50, 22, ,precision: ,0.193548, recall: ,0.666667, f-measure: ,0.300000,
+
+repetitions:, 5, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.433333, sensitivity: ,0.833333, specificity: ,0.333333,
+Actual Non-RT, 48, 24, ,precision: ,0.238095, recall: ,0.833333, f-measure: ,0.370370,
+
+repetitions:, 5, fold:, 1, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 4, ,accuracy: ,0.522222, sensitivity: ,0.777778, specificity: ,0.458333,
+Actual Non-RT, 39, 33, ,precision: ,0.264151, recall: ,0.777778, f-measure: ,0.394366,
+
+repetitions:, 5, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 5, ,accuracy: ,0.388889, sensitivity: ,0.722222, specificity: ,0.305556,
+Actual Non-RT, 50, 22, ,precision: ,0.206349, recall: ,0.722222, f-measure: ,0.320988,
+
+repetitions:, 5, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 4, ,accuracy: ,0.477778, sensitivity: ,0.777778, specificity: ,0.402778,
+Actual Non-RT, 43, 29, ,precision: ,0.245614, recall: ,0.777778, f-measure: ,0.373333,
+
+repetitions:, 5, fold:, 1, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.455556, sensitivity: ,0.833333, specificity: ,0.361111,
+Actual Non-RT, 46, 26, ,precision: ,0.245902, recall: ,0.833333, f-measure: ,0.379747,
+
+repetitions:, 5, fold:, 2, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 5, 19, ,accuracy: ,0.711111, sensitivity: ,0.208333, specificity: ,0.893939,
+Actual Non-RT, 7, 59, ,precision: ,0.416667, recall: ,0.208333, f-measure: ,0.277778,
+
+repetitions:, 5, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 22, 2, ,accuracy: ,0.433333, sensitivity: ,0.916667, specificity: ,0.257576,
+Actual Non-RT, 49, 17, ,precision: ,0.309859, recall: ,0.916667, f-measure: ,0.463158,
+
+repetitions:, 5, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 21, 3, ,accuracy: ,0.522222, sensitivity: ,0.875000, specificity: ,0.393939,
+Actual Non-RT, 40, 26, ,precision: ,0.344262, recall: ,0.875000, f-measure: ,0.494118,
+
+repetitions:, 5, fold:, 2, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 22, 2, ,accuracy: ,0.411111, sensitivity: ,0.916667, specificity: ,0.227273,
+Actual Non-RT, 51, 15, ,precision: ,0.301370, recall: ,0.916667, f-measure: ,0.453608,
+
+repetitions:, 5, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 4, ,accuracy: ,0.444444, sensitivity: ,0.833333, specificity: ,0.303030,
+Actual Non-RT, 46, 20, ,precision: ,0.303030, recall: ,0.833333, f-measure: ,0.444444,
+
+repetitions:, 5, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 18, 6, ,accuracy: ,0.455556, sensitivity: ,0.750000, specificity: ,0.348485,
+Actual Non-RT, 43, 23, ,precision: ,0.295082, recall: ,0.750000, f-measure: ,0.423529,
+
+repetitions:, 5, fold:, 2, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 22, 2, ,accuracy: ,0.455556, sensitivity: ,0.916667, specificity: ,0.287879,
+Actual Non-RT, 47, 19, ,precision: ,0.318841, recall: ,0.916667, f-measure: ,0.473118,
+
+repetitions:, 5, fold:, 3, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 13, ,accuracy: ,0.733333, sensitivity: ,0.350000, specificity: ,0.842857,
+Actual Non-RT, 11, 59, ,precision: ,0.388889, recall: ,0.350000, f-measure: ,0.368421,
+
+repetitions:, 5, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 5, ,accuracy: ,0.400000, sensitivity: ,0.750000, specificity: ,0.300000,
+Actual Non-RT, 49, 21, ,precision: ,0.234375, recall: ,0.750000, f-measure: ,0.357143,
+
+repetitions:, 5, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 3, ,accuracy: ,0.422222, sensitivity: ,0.850000, specificity: ,0.300000,
+Actual Non-RT, 49, 21, ,precision: ,0.257576, recall: ,0.850000, f-measure: ,0.395349,
+
+repetitions:, 5, fold:, 3, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 6, ,accuracy: ,0.344444, sensitivity: ,0.700000, specificity: ,0.242857,
+Actual Non-RT, 53, 17, ,precision: ,0.208955, recall: ,0.700000, f-measure: ,0.321839,
+
+repetitions:, 5, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 5, ,accuracy: ,0.411111, sensitivity: ,0.750000, specificity: ,0.314286,
+Actual Non-RT, 48, 22, ,precision: ,0.238095, recall: ,0.750000, f-measure: ,0.361446,
+
+repetitions:, 5, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 6, ,accuracy: ,0.444444, sensitivity: ,0.700000, specificity: ,0.371429,
+Actual Non-RT, 44, 26, ,precision: ,0.241379, recall: ,0.700000, f-measure: ,0.358974,
+
+repetitions:, 5, fold:, 3, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 6, ,accuracy: ,0.377778, sensitivity: ,0.700000, specificity: ,0.285714,
+Actual Non-RT, 50, 20, ,precision: ,0.218750, recall: ,0.700000, f-measure: ,0.333333,
+
+repetitions:, 5, fold:, 4, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 9, 17, ,accuracy: ,0.744444, sensitivity: ,0.346154, specificity: ,0.906250,
+Actual Non-RT, 6, 58, ,precision: ,0.600000, recall: ,0.346154, f-measure: ,0.439024,
+
+repetitions:, 5, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 9, ,accuracy: ,0.411111, sensitivity: ,0.653846, specificity: ,0.312500,
+Actual Non-RT, 44, 20, ,precision: ,0.278689, recall: ,0.653846, f-measure: ,0.390805,
+
+repetitions:, 5, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 23, 3, ,accuracy: ,0.500000, sensitivity: ,0.884615, specificity: ,0.343750,
+Actual Non-RT, 42, 22, ,precision: ,0.353846, recall: ,0.884615, f-measure: ,0.505495,
+
+repetitions:, 5, fold:, 4, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 6, ,accuracy: ,0.466667, sensitivity: ,0.769231, specificity: ,0.343750,
+Actual Non-RT, 42, 22, ,precision: ,0.322581, recall: ,0.769231, f-measure: ,0.454545,
+
+repetitions:, 5, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 20, 6, ,accuracy: ,0.511111, sensitivity: ,0.769231, specificity: ,0.406250,
+Actual Non-RT, 38, 26, ,precision: ,0.344828, recall: ,0.769231, f-measure: ,0.476190,
+
+repetitions:, 5, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 7, ,accuracy: ,0.488889, sensitivity: ,0.730769, specificity: ,0.390625,
+Actual Non-RT, 39, 25, ,precision: ,0.327586, recall: ,0.730769, f-measure: ,0.452381,
+
+repetitions:, 5, fold:, 4, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 21, 5, ,accuracy: ,0.511111, sensitivity: ,0.807692, specificity: ,0.390625,
+Actual Non-RT, 39, 25, ,precision: ,0.350000, recall: ,0.807692, f-measure: ,0.488372,
+
+repetitions:, 5, fold:, 5, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 4, 14, ,accuracy: ,0.766667, sensitivity: ,0.222222, specificity: ,0.902778,
+Actual Non-RT, 7, 65, ,precision: ,0.363636, recall: ,0.222222, f-measure: ,0.275862,
+
+repetitions:, 5, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 4, ,accuracy: ,0.433333, sensitivity: ,0.777778, specificity: ,0.347222,
+Actual Non-RT, 47, 25, ,precision: ,0.229508, recall: ,0.777778, f-measure: ,0.354430,
+
+repetitions:, 5, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 6, ,accuracy: ,0.466667, sensitivity: ,0.666667, specificity: ,0.416667,
+Actual Non-RT, 42, 30, ,precision: ,0.222222, recall: ,0.666667, f-measure: ,0.333333,
+
+repetitions:, 5, fold:, 5, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 7, ,accuracy: ,0.422222, sensitivity: ,0.611111, specificity: ,0.375000,
+Actual Non-RT, 45, 27, ,precision: ,0.196429, recall: ,0.611111, f-measure: ,0.297297,
+
+repetitions:, 5, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 9, 9, ,accuracy: ,0.400000, sensitivity: ,0.500000, specificity: ,0.375000,
+Actual Non-RT, 45, 27, ,precision: ,0.166667, recall: ,0.500000, f-measure: ,0.250000,
+
+repetitions:, 5, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 5, ,accuracy: ,0.400000, sensitivity: ,0.722222, specificity: ,0.319444,
+Actual Non-RT, 49, 23, ,precision: ,0.209677, recall: ,0.722222, f-measure: ,0.325000,
+
+repetitions:, 5, fold:, 5, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 5, ,accuracy: ,0.444444, sensitivity: ,0.722222, specificity: ,0.375000,
+Actual Non-RT, 45, 27, ,precision: ,0.224138, recall: ,0.722222, f-measure: ,0.342105,
+
+repetitions:, 5, fold:, 6, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 3, 14, ,accuracy: ,0.777778, sensitivity: ,0.176471, specificity: ,0.917808,
+Actual Non-RT, 6, 67, ,precision: ,0.333333, recall: ,0.176471, f-measure: ,0.230769,
+
+repetitions:, 5, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 4, ,accuracy: ,0.500000, sensitivity: ,0.764706, specificity: ,0.438356,
+Actual Non-RT, 41, 32, ,precision: ,0.240741, recall: ,0.764706, f-measure: ,0.366197,
+
+repetitions:, 5, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 4, ,accuracy: ,0.333333, sensitivity: ,0.764706, specificity: ,0.232877,
+Actual Non-RT, 56, 17, ,precision: ,0.188406, recall: ,0.764706, f-measure: ,0.302326,
+
+repetitions:, 5, fold:, 6, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.400000, sensitivity: ,0.823529, specificity: ,0.301370,
+Actual Non-RT, 51, 22, ,precision: ,0.215385, recall: ,0.823529, f-measure: ,0.341463,
+
+repetitions:, 5, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 4, ,accuracy: ,0.388889, sensitivity: ,0.764706, specificity: ,0.301370,
+Actual Non-RT, 51, 22, ,precision: ,0.203125, recall: ,0.764706, f-measure: ,0.320988,
+
+repetitions:, 5, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 5, ,accuracy: ,0.433333, sensitivity: ,0.705882, specificity: ,0.369863,
+Actual Non-RT, 46, 27, ,precision: ,0.206897, recall: ,0.705882, f-measure: ,0.320000,
+
+repetitions:, 5, fold:, 6, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 3, ,accuracy: ,0.411111, sensitivity: ,0.823529, specificity: ,0.315068,
+Actual Non-RT, 50, 23, ,precision: ,0.218750, recall: ,0.823529, f-measure: ,0.345679,
+
+repetitions:, 5, fold:, 7, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 5, 11, ,accuracy: ,0.633333, sensitivity: ,0.312500, specificity: ,0.702703,
+Actual Non-RT, 22, 52, ,precision: ,0.185185, recall: ,0.312500, f-measure: ,0.232558,
+
+repetitions:, 5, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 2, ,accuracy: ,0.422222, sensitivity: ,0.875000, specificity: ,0.324324,
+Actual Non-RT, 50, 24, ,precision: ,0.218750, recall: ,0.875000, f-measure: ,0.350000,
+
+repetitions:, 5, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 3, ,accuracy: ,0.488889, sensitivity: ,0.812500, specificity: ,0.418919,
+Actual Non-RT, 43, 31, ,precision: ,0.232143, recall: ,0.812500, f-measure: ,0.361111,
+
+repetitions:, 5, fold:, 7, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 3, ,accuracy: ,0.422222, sensitivity: ,0.812500, specificity: ,0.337838,
+Actual Non-RT, 49, 25, ,precision: ,0.209677, recall: ,0.812500, f-measure: ,0.333333,
+
+repetitions:, 5, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 12, 4, ,accuracy: ,0.422222, sensitivity: ,0.750000, specificity: ,0.351351,
+Actual Non-RT, 48, 26, ,precision: ,0.200000, recall: ,0.750000, f-measure: ,0.315789,
+
+repetitions:, 5, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 5, ,accuracy: ,0.411111, sensitivity: ,0.687500, specificity: ,0.351351,
+Actual Non-RT, 48, 26, ,precision: ,0.186441, recall: ,0.687500, f-measure: ,0.293333,
+
+repetitions:, 5, fold:, 7, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 5, ,accuracy: ,0.400000, sensitivity: ,0.687500, specificity: ,0.337838,
+Actual Non-RT, 49, 25, ,precision: ,0.183333, recall: ,0.687500, f-measure: ,0.289474,
+
+repetitions:, 5, fold:, 8, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 4, 14, ,accuracy: ,0.822222, sensitivity: ,0.222222, specificity: ,0.972222,
+Actual Non-RT, 2, 70, ,precision: ,0.666667, recall: ,0.222222, f-measure: ,0.333333,
+
+repetitions:, 5, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.377778, sensitivity: ,0.833333, specificity: ,0.263889,
+Actual Non-RT, 53, 19, ,precision: ,0.220588, recall: ,0.833333, f-measure: ,0.348837,
+
+repetitions:, 5, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 2, ,accuracy: ,0.477778, sensitivity: ,0.888889, specificity: ,0.375000,
+Actual Non-RT, 45, 27, ,precision: ,0.262295, recall: ,0.888889, f-measure: ,0.405063,
+
+repetitions:, 5, fold:, 8, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 1, ,accuracy: ,0.488889, sensitivity: ,0.944444, specificity: ,0.375000,
+Actual Non-RT, 45, 27, ,precision: ,0.274194, recall: ,0.944444, f-measure: ,0.425000,
+
+repetitions:, 5, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 2, ,accuracy: ,0.444444, sensitivity: ,0.888889, specificity: ,0.333333,
+Actual Non-RT, 48, 24, ,precision: ,0.250000, recall: ,0.888889, f-measure: ,0.390244,
+
+repetitions:, 5, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 3, ,accuracy: ,0.444444, sensitivity: ,0.833333, specificity: ,0.347222,
+Actual Non-RT, 47, 25, ,precision: ,0.241935, recall: ,0.833333, f-measure: ,0.375000,
+
+repetitions:, 5, fold:, 8, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 1, ,accuracy: ,0.444444, sensitivity: ,0.944444, specificity: ,0.319444,
+Actual Non-RT, 49, 23, ,precision: ,0.257576, recall: ,0.944444, f-measure: ,0.404762,
+
+repetitions:, 5, fold:, 9, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 7, 9, ,accuracy: ,0.711111, sensitivity: ,0.437500, specificity: ,0.770270,
+Actual Non-RT, 17, 57, ,precision: ,0.291667, recall: ,0.437500, f-measure: ,0.350000,
+
+repetitions:, 5, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 1, ,accuracy: ,0.477778, sensitivity: ,0.937500, specificity: ,0.378378,
+Actual Non-RT, 46, 28, ,precision: ,0.245902, recall: ,0.937500, f-measure: ,0.389610,
+
+repetitions:, 5, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 3, ,accuracy: ,0.422222, sensitivity: ,0.812500, specificity: ,0.337838,
+Actual Non-RT, 49, 25, ,precision: ,0.209677, recall: ,0.812500, f-measure: ,0.333333,
+
+repetitions:, 5, fold:, 9, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 3, ,accuracy: ,0.388889, sensitivity: ,0.812500, specificity: ,0.297297,
+Actual Non-RT, 52, 22, ,precision: ,0.200000, recall: ,0.812500, f-measure: ,0.320988,
+
+repetitions:, 5, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 11, 5, ,accuracy: ,0.400000, sensitivity: ,0.687500, specificity: ,0.337838,
+Actual Non-RT, 49, 25, ,precision: ,0.183333, recall: ,0.687500, f-measure: ,0.289474,
+
+repetitions:, 5, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 14, 2, ,accuracy: ,0.377778, sensitivity: ,0.875000, specificity: ,0.270270,
+Actual Non-RT, 54, 20, ,precision: ,0.205882, recall: ,0.875000, f-measure: ,0.333333,
+
+repetitions:, 5, fold:, 9, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 13, 3, ,accuracy: ,0.355556, sensitivity: ,0.812500, specificity: ,0.256757,
+Actual Non-RT, 55, 19, ,precision: ,0.191176, recall: ,0.812500, f-measure: ,0.309524,
+
+repetitions:, 5, fold:, 10, algorithm:, Perceptrons
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 6, 15, ,accuracy: ,0.666667, sensitivity: ,0.285714, specificity: ,0.782609,
+Actual Non-RT, 15, 54, ,precision: ,0.285714, recall: ,0.285714, f-measure: ,0.285714,
+
+repetitions:, 5, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 15, 6, ,accuracy: ,0.411111, sensitivity: ,0.714286, specificity: ,0.318841,
+Actual Non-RT, 47, 22, ,precision: ,0.241935, recall: ,0.714286, f-measure: ,0.361446,
+
+repetitions:, 5, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 4, ,accuracy: ,0.544444, sensitivity: ,0.809524, specificity: ,0.463768,
+Actual Non-RT, 37, 32, ,precision: ,0.314815, recall: ,0.809524, f-measure: ,0.453333,
+
+repetitions:, 5, fold:, 10, algorithm:, Extreme Learning Machine
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 5, ,accuracy: ,0.433333, sensitivity: ,0.761905, specificity: ,0.333333,
+Actual Non-RT, 46, 23, ,precision: ,0.258065, recall: ,0.761905, f-measure: ,0.385542,
+
+repetitions:, 5, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 16, 5, ,accuracy: ,0.466667, sensitivity: ,0.761905, specificity: ,0.376812,
+Actual Non-RT, 43, 26, ,precision: ,0.271186, recall: ,0.761905, f-measure: ,0.400000,
+
+repetitions:, 5, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 17, 4, ,accuracy: ,0.511111, sensitivity: ,0.809524, specificity: ,0.420290,
+Actual Non-RT, 40, 29, ,precision: ,0.298246, recall: ,0.809524, f-measure: ,0.435897,
+
+repetitions:, 5, fold:, 10, algorithm:, Extreme Learning Machine 2
+ , Predicted RT, Predicted Non-RT,
+Actual RT, 19, 2, ,accuracy: ,0.511111, sensitivity: ,0.904762, specificity: ,0.391304,
+Actual Non-RT, 42, 27, ,precision: ,0.311475, recall: ,0.904762, f-measure: ,0.463415,
+
